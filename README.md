@@ -3,7 +3,7 @@ How is it going? 🖖 My name is Rellyson and I'm 19. An eternal developer stude
 - 🌱 currently learning: React.js, Node.js, Postgres, Javascript
 - 👯 I'm looking to collaborate with the community
 - 🤔 I’m looking for help with React.js
-- ⚡ Fun fact: às vezes faço rio de coisas que não deveria (não por mal) hahaha
+- ⚡ Fun fact: sometimes I laugh at things I shouldn't (not badly) hahaha
 
 I am always available to chat or help. Contact me:
 
