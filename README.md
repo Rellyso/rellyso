@@ -1,9 +1,8 @@
 ### Hi there 👋
-How is it going? 🖖 My name is Rellyson and I'm 19. An eternal developer student and I'm currently focused on being a full stack developer! 
-- 🌱 currently learning: React.js, Node.js, Postgres, Javascript
+How is it going? 🖖 My name is Rellyson and I'm 19. An web developer student and I'm currently focused on being a full-stack! 
+- 🌱 currently learning: Javascript, Typescript, React.js, Next.js, Node.js, Postgres
 - 👯 I'm looking to collaborate with the community
-- 🤔 I’m looking for help with React.js
-- ⚡ Fun fact: everyone thinks I'm quiet, until they start talking about something that I really like haha
+- 🤔 I’m looking for help with React.js and Next.js
 
 I am always available to chat or help. Contact me:
 
