@@ -1,10 +1,9 @@
 ### Web developer
 
-How it's going? 🖖 My name is Rellyson and I'm 20 old. A brazilian web developer student 🇧🇷👨‍💻 and I'm currently focused on being a full-stack web developer! 
+I'm 20 old | Brazilian web developer student 🇧🇷👨‍💻 | currently focused on being a full-stack web developer! 
 - 🌱 currently learning: Javascript, Typescript, React.js, Next.js, Node.js, Postgres
 - 📣 I'm looking to collaborate with the community
 - 🤔 I’m looking for help with React.js and Next.js
-
 
 
 I am always available chatting or help. Contact me:
