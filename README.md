@@ -1,10 +1,6 @@
 ### Web developer
 
-I'm 21 old | Brazilian web developer student 🇧🇷👨‍💻 | currently focused on being a full-stack web developer! 
-- 🌱 currently learning: Javascript, Typescript, React.js, Next.js, Node.js, Postgres
-- 📣 I'm looking to collaborate with the community
-- 🤔 I’m looking for help with React.js and Next.js
-
+I'm 22 old | Brazilian web developer 🇧🇷👨‍💻 | currently focused to help new web developers! 
 
 I am always available chatting or help. Contact me:
 
