@@ -25,9 +25,9 @@
 
 
 - 🔭 I’m currently working at **Twila.Digital** as a **Front-End React Developer** 
-- 🌱 I’m currently learning **Next.js**
-- ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
-- 💬 Ask me about **React, React Native, Nodejs, MongoDB**
+- 🌱 I’m currently learning **Performance and accessibility**
+- ☁️ Twila.Digital, focused on quality, best practices and constant team development. I study leadership, strategic vision and technical and human decision-making to drive projects with excellence.
+- 💬 Ask me about **React, Next.js web apps perfomance**
 - 📫 Feel free to reach me out **contato.rellysondouglas@gmail.com**
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  **rellyso@52704** 
 <p align="center">
